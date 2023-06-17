@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Test current Date</title>
+<title>Test2 current Date</title>
 </head>
 <body>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
