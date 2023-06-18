@@ -8,6 +8,6 @@
 <title>hello, current Date</title>
 </head>
 <body>
-Today's date: <%= (new java.utisdfl.Dafsdsfsfte()).toLocaleString()%>
+Today's date: <%= (new java.utisdfl.Date()).toLocaleString()%>
 </body>
 </html>
